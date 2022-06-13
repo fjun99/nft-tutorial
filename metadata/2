@@ -1,7 +1,7 @@
 {
     "description" : "Friendly OpenSea Creature that enjoys long swims in the ocean.",
     "external_url" : "https://example.com/?token_id=2",
-    "image" : "https://storage.googleapis.com/opensea-prod.appspot.com/creature/2.png",
+    "image" : "https://raw.githubusercontent.com/fjun99/nft-tutorial/main/metadata/image/2.png",
     "name" : "Boris McCoy",
     "attributes" : [
         {
