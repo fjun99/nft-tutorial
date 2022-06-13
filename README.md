@@ -1,11 +1,13 @@
 # Edit `.env` 
 
+```
 ETHERSCAN_API_KEY=...
 ROPSTEN_URL=https://eth-ropsten.alchemyapi.io/v2/<YOUR ALCHEMY KEY>
 PRIVATE_KEY=0x...
 
 RINKEBY_URL=https://eth-rinkeby.alchemyapi.io/v2/...
 RINKEBY_PRIVATE_KEY=...
+```
 
 # Advanced Sample Hardhat Project
 
